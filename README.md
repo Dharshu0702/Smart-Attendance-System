@@ -38,6 +38,4 @@ The system:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Dharshu0702/Smart-Attendance-System.git
-cd Smart-Attendance-System
-pip install -r requirements.txt
+
