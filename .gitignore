@@ -1,0 +1,4 @@
+output/ 
+*.t7 
+*.pyc 
+__pycache__/ 
