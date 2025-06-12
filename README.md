@@ -33,9 +33,5 @@ The system:
 - Haar Cascades
 - CSV for logging
 
----
 
-## 📦 Installation
-
-```bash
 
