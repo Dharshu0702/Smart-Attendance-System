@@ -1,4 +1,4 @@
-Smart Attendance System using Face Recognition
+# Smart Attendance System using Face Recognition
 
 This project is a **Smart Attendance System** built using **Computer Vision** and **Deep Learning**. It automates the process of attendance using face recognition technology, making it faster, more secure, and user-friendly.
 
